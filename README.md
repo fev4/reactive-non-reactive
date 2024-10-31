@@ -27,3 +27,8 @@ As of 2024-10-30
 │
 ◇  Successfully installed dependencies
 ```
+
+To reproduce:
+
+- Install packages
+- Run `pnpm eslint .`
